@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Saksham</h1>
-<h3 align="center">A passionate Web developer from India</h3>
+<a href="https://github.com/Ratheshan03/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Undergraduate;Learning+Full+Stack+Software+Development;Aspiring+Learner&center=true&width=500&height=50"></a>
+<img align='right' src="https://raw.githubusercontent.com/SupianIDz/SupianIDz/main/coding.gif" width="230" />
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stacksome&label=Profile%20views&color=0e75b6&style=flat" alt="stacksome" /> </p>
 
@@ -11,15 +13,13 @@
 
 - 📫 How to reach me **gujjarsakshik867@gmail.com**
 
+<hr>
 
-<div height="900">
 <p align="left" >I’m a BTech student with a strong interest in web development. I enjoy creating websites and web apps, and have learned the basics of HTML, CSS, and JavaScript. I’m also exploring tools like React for front-end development and Node.js for the back-end. I love problem-solving and working on projects that help me build my skills. My goal is to become a full-stack web developer and work on exciting projects that make an impact. I’m always looking to learn more and improve along the way.</p>
-<img align="right" src="https://raw.githubusercontent.com/SupianIDz/SupianIDz/main/coding.gif" alt="coding" height="750" width="600">
-</div>
 
+<hr>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/saksham-gujjar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saksham-gujjar" height="30" width="40"/></a>
 <a href="https://instagram.com/_saksham_gujjar_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_saksham_gujjar_" height="30" width="40" /></a>
 </p>
 <hr>
