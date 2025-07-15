@@ -7,15 +7,15 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **Node JS**
 
-- 💬 Ask me about **HTML,CSS,JavaScript**
+- 💬 Ask me about **HTML,CSS,JavaScript,React JS**
 
 - 📫 How to reach me **gujjarsakshik867@gmail.com**
 
 <hr>
 
-<p align="left" >I’m a BTech student with a strong interest in web development. I enjoy creating websites and web apps, and have learned the basics of HTML, CSS, and JavaScript. I’m also exploring tools like React for front-end development and Node.js for the back-end. I love problem-solving and working on projects that help me build my skills. My goal is to become a full-stack web developer and work on exciting projects that make an impact. I’m always looking to learn more and improve along the way.</p>
+<p align="left" >I’m a BTech student with a strong interest in web development. I enjoy creating websites and web apps, and have learned the basics of HTML, CSS,  JavaScript and React JS. I’m also exploring tools like React for front-end development and Node.js for the back-end. I love problem-solving and working on projects that help me build my skills. My goal is to become a full-stack web developer and work on exciting projects that make an impact. I’m always looking to learn more and improve along the way.</p>
 
 <hr>
 <h3 align="left">Connect with me:</h3>
